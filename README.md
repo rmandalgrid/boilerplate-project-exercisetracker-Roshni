@@ -24,7 +24,6 @@ Server runs on `http://localhost:3000`
 - Retrieve exercise logs with filtering (date range, limit)
 - SQLite database (no external setup needed)
 - Input validation and SQL injection protection
-- 27 unit tests with 85% coverage
 
 ## 📚 API Endpoints
 
@@ -122,15 +121,6 @@ src/
 ├── database/       # DB setup & migrations
 └── utils/          # Validation & helpers
 ```
-
-## 🧪 Testing
-
-```bash
-npm test
-```
-
-- 27 test cases covering all endpoints
-- 85% code coverage
 
 ## ⚙️ Configuration
 
