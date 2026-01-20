@@ -13,17 +13,11 @@ Server runs on `http://localhost:3000`
 
 ## 📸 Screenshots
 
-### API Test Results
-![Test Results](screenshots/test-results.png)
+### UI Results
 
-### Create User Endpoint
-![Create User](screenshots/create-user.png)
+![UI Result 1](screenshots/Screenshot 2026-01-20 at 5.06.50 PM.png)
 
-### Add Exercise Endpoint
-![Add Exercise](screenshots/add-exercise.png)
-
-### Get Exercise Logs
-![Exercise Logs](screenshots/exercise-logs.png)
+![UI Result 2](screenshots/Screenshot 2026-01-20 at 5.07.06 PM.png)
 
 ## ✅ Features
 
