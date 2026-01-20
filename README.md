@@ -15,9 +15,9 @@ Server runs on `http://localhost:3000`
 
 ### UI Results
 
-![UI Result 1](screenshots/Screenshot%202026-01-20%20at%205.06.50%20PM.png)
+![UI Result 1](screenshots/ui-result-1.png)
 
-![UI Result 2](screenshots/Screenshot%202026-01-20%20at%205.07.06%20PM.png)
+![UI Result 2](screenshots/ui-result-2.png)
 
 ## ✅ Features
 
