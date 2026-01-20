@@ -14,10 +14,8 @@ Server runs on `http://localhost:3000`
 ## 📸 Screenshots
 
 ### UI Results
-
-![UI Result 1](screenshots/ui-result-1.png)
-
 ![UI Result 2](screenshots/ui-result-2.png)
+![UI Result 1](screenshots/ui-result-1.png)
 
 ## ✅ Features
 
