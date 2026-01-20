@@ -34,14 +34,14 @@ Server runs on `http://localhost:3000`
 ```bash
 curl -X POST http://localhost:3000/api/users \
   -H "Content-Type: application/x-www-form-urlencoded" \
-  -d "username=john_doe"
+  -d "username=roshni_mandal"
 ```
 
 **Response:**
 ```json
 {
   "id": 1,
-  "username": "john_doe"
+  "username": "roshni_mandal"
 }
 ```
 
@@ -70,7 +70,7 @@ curl -X POST http://localhost:3000/api/users/1/exercises \
 ```json
 {
   "_id": 1,
-  "username": "john_doe",
+  "username": "roshni_mandal",
   "description": "Running",
   "duration": 30,
   "date": "Mon Jan 15 2024"
@@ -97,7 +97,7 @@ curl "http://localhost:3000/api/users/1/logs?from=2024-01-01&to=2024-01-31&limit
 ```json
 {
   "_id": 1,
-  "username": "john_doe",
+  "username": "roshni_mandal",
   "count": 3,
   "log": [
     {
